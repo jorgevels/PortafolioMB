@@ -6,7 +6,7 @@ _Portafolio profesional donde plasmo mis habilidades y mi experiencia_
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** https://jorgevels.github.io/Merquemos/.
+Mira **Deployment** https://portafoliomb.jorgevelasquez006.now.sh/.
 
 ### Pre-requisitos 📋
 
