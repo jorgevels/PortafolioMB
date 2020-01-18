@@ -1,0 +1,58 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6860d8bfac92acf0e5168693c62417a3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.cc2fd9f60682b978051d87a5adf83dce.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.2519e5ee9c4477611785853f98846ff6.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.48c8eb0fbd1ec3650d00ce6107e7fd64.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.7e1f1bc141c1837cbed6e3efdae0105a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.243dbc09302e384d5f1c4c89c4be070d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_48x48.e8c0f2e598bc1f1b735b1f3fad468598.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_32x32.98f996015d7eee629610b3e93d45bed5.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_16x16.e98f94e6cdb65a10da1e8d9e12dda78c.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
+  "name": "Portafolio",
+  "short_name": "Portafolio",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "shortname": "Portafolio C.V",
+  "description": "Aqui plasmo mis habilidades y mi experiencia profesional",
+  "background_color": "#fff",
+  "theme_color": "#21C08B"
+}

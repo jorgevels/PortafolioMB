@@ -1,0 +1,196 @@
+{
+  "address": "Medellin",
+  "avatar": "https://res.cloudinary.com/imagesfull/image/upload/v1576790297/Perfiles/perfilBlandon_cyfhnp.png",
+  "bio": "Apasionado por la tecnología, enfocado en el desarrollo, áreas en las que cuento con experiencia como administrador de Kioscos digitales, colaborador y coordinador de proyectos.",
+  "certificate": [
+    {
+      "date": "Jan 2021",
+      "description": "Hack up furballs try to jump onto window and fall while scratching at wall. ",
+      "institution": "UniRemington",
+      "name": "FrontEnd Developer y full stack"
+    },
+    {
+      "date": "Jan 2021",
+      "description": "Scratch at the door then walk away wack the mini furry mouse",
+      "institution": "UniRemington",
+      "name": "Developer"
+    }
+  ],
+  "competency": [
+    {
+      "name": "Gestión de proyectos"
+    },
+    {
+      "name": "Planificación estratégica"
+    },
+    {
+      "name": "Liderazgo"
+    },
+    {
+      "name": "Metodologías ágiles"
+    },
+    {
+      "name": "Gestión y motivación de equipos"
+    },
+    {
+      "name": "Autoaprendizaje"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Seguridad de la informacion",
+      "description": "Diplomado enfocado en la seguridad de la informacion, proteccion de datos y recolecion de requisitos para garantizar la seguridad y consistencia de los datos.",
+      "endDate": "Diciembre 2018",
+      "institution": "UniRemington",
+      "startDate": "Marzo 2018"
+    },
+    {
+      "degree": "Ingeniero de sistemas",
+      "description": "Carrera de ingenieria de sistemas, basada en el desarrollo de habilidades tanto en redes como en desarrollo de software y metodologias agiles ",
+      "endDate": "2018",
+      "institution": "UniRemington",
+      "startDate": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "company": "MinTIC",
+      "endDate": "2017",
+      "jobDescription": "Administracion de Kioscos digitales, soporte y mantenimiento ",
+      "jobTitle": "Administrador",
+      "startDate": "2015"
+    },
+    {
+      "company": "CejaTic",
+      "endDate": "2008",
+      "jobDescription": "Desarrollo de estrategias de marketing digital, diseño y productividad. Actualización de la página Web y redes Sociales. Implementación de metodologías ágiles, CRM y POS.",
+      "jobTitle": "Coordinador de Estrategias digitales",
+      "startDate": "2016"
+    },
+    {
+      "company": "TransUnidos",
+      "endDate": "2017",
+      "jobDescription": "Diseño e implementación de plataformas de transportes y carga, seguimiento de vehicuilos con google maps.",
+      "jobTitle": "Jefe Tecnologia",
+      "startDate": "2007"
+    }
+  ],
+  "interest": [
+    {
+      "name": "Gastronomía"
+    },
+    {
+      "name": "Voluntariado"
+    },
+    {
+      "name": "Masculino"
+    },
+    {
+      "name": "Man In Tech"
+    },
+    {
+      "name": "UX"
+    },
+    {
+      "name": "Educación"
+    },
+    {
+      "name": "Front-End"
+    }
+  ],
+  "name": "Mauricio Blandon",
+  "profession": "Ingeniero de sistemas        full stack developer",
+  "projects": [
+    {
+      "demoLink": "",
+      "description": "Maquina dispensadora de pines para conectarce a una red Wifi",
+      "githubLink": "https://github.com/",
+      "image": "https://res.cloudinary.com/imagesfull/image/upload/v1576795924/Perfiles/tupin_bzo1fm.jpg",
+      "name": "TuPin",
+      "t1": "devicon-javascript-plain",
+      "t2": "devicon-html5-plain",
+      "t3": "devicon-css3-plain"
+    },
+    {
+      "demoLink": "",
+      "description": "Plataforma de seguimiento de vehiculos",
+      "githubLink": "https://github.com/",
+      "image": "https://res.cloudinary.com/imagesfull/image/upload/v1576795927/Perfiles/tuguardian_wletpr.png",
+      "name": "TuGuardian",
+      "t1": "devicon-javascript-plain",
+      "t2": "devicon-html5-plain",
+      "t3": "devicon-css3-plain"
+    },
+    {
+      "demoLink": "",
+      "description": "Plataforma de seguimiento de mujeres solteras",
+      "githubLink": "https://github.com/",
+      "image": "https://res.cloudinary.com/imagesfull/image/upload/v1576795891/Perfiles/teveo_joenkk.jpg",
+      "name": "TeVeo",
+      "t1": "devicon-javascript-plain",
+      "t2": "devicon-html5-plain",
+      "t3": "devicon-css3-plain"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Javascript",
+      "percentage": "50%"
+    },
+    {
+      "name": "HTML",
+      "percentage": "85%"
+    },
+    {
+      "name": "CSS",
+      "percentage": "55%"
+    },
+    {
+      "name": "NodeJs",
+      "percentage": "30%"
+    },
+    {
+      "name": "Vue",
+      "percentage": "30%"
+    },
+    {
+      "name": "Git",
+      "percentage": "65%"
+    },
+    {
+      "name": "API",
+      "percentage": "55%"
+    },
+    {
+      "name": "Firebase",
+      "percentage": "35%"
+    },
+    {
+      "name": "React",
+      "percentage": "35%"
+    },
+
+    {
+      "name": "Net",
+      "percentage": "35%"
+    }
+  ],
+  "social": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/"
+    }
+  ]
+}
